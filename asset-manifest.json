@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ShopNGo/static/css/main.28e4da70.css",
+    "main.js": "/ShopNGo/static/js/main.da79afd2.js",
+    "index.html": "/ShopNGo/index.html",
+    "main.28e4da70.css.map": "/ShopNGo/static/css/main.28e4da70.css.map",
+    "main.da79afd2.js.map": "/ShopNGo/static/js/main.da79afd2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28e4da70.css",
+    "static/js/main.da79afd2.js"
+  ]
+}
